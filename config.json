@@ -1,0 +1,13 @@
+{
+    "equipment_name": "Crane A1",
+    "equipment_make": "universal Corp",
+    "capacity_t": 1000.0,
+    "conducted_by": {
+        "name": "Krishna",
+        "designation": "Engineer"
+    },
+    "approved_by": {
+        "name": "Ram",
+        "designation": "Supervisor"
+    }
+}
